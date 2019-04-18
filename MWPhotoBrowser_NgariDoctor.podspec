@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name = 'MWPhotoBrowser_NgariDoctor'
-  s.version = '0.0.2'
+  s.version = '0.0.3'
   s.license = 'MIT'
   s.summary = 'A simple iOS photo and video browser with optional grid view, captions and selections.'
   s.description = <<-DESCRIPTION
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
 
   s.source = {
     :git => 'https://github.com/stoneioslife/MWPhotoBrowser_NgariDoctor.git',
-    :tag => '0.0.2'
+    :tag => '0.0.3'
   }
   s.platform = :ios, '7.0'
   s.source_files = 'Pod/Classes/**/*'
