@@ -25,9 +25,9 @@ Pod::Spec.new do |s|
 
   s.source = {
     :git => 'https://github.com/stoneioslife/MWPhotoBrowser_NgariDoctor.git',
-    :tag => '0.0.3'
+    :tag => '0.0.4'
   }
-  s.platform = :ios, '7.0'
+  s.platform = :ios, '9.0'
   s.source_files = 'Pod/Classes/**/*'
   s.resource_bundles = {
     'MWPhotoBrowser' => ['Pod/Assets/*.png']
