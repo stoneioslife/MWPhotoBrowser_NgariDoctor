@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
   s.weak_frameworks = 'Photos'
 
   s.dependency 'MBProgressHUD', '~> 1.1.0'
-  s.dependency 'DACircularProgress_NgariDoctor', '~> 2.3'
+  s.dependency 'DACircularProgress_NgariDoctor'
 
   # SDWebImage
   # 3.7.2 contains bugs downloading local files
