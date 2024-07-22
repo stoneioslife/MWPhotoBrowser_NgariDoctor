@@ -1,7 +1,7 @@
 PODS:
   - DACircularProgress_NgariDoctor (0.0.1)
   - MBProgressHUD (1.1.0)
-  - MWPhotoBrowser_NgariDoctor (0.0.5):
+  - MWPhotoBrowser_NgariDoctor (0.0.7):
     - DACircularProgress_NgariDoctor
     - MBProgressHUD (~> 1.1.0)
     - SDWebImage (~> 5.0.1)
@@ -25,9 +25,9 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   DACircularProgress_NgariDoctor: a8f07ed7904b4f60653a6122ae2335c049df74a4
   MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
-  MWPhotoBrowser_NgariDoctor: bf617cfd046e7c29406f451e5850fe1554ab98a5
+  MWPhotoBrowser_NgariDoctor: 43af5ca69468e86fa53c746b61ac4713ad92bcaf
   SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
 
 PODFILE CHECKSUM: 55ac0e02d4a9748e561526620aad83338d1e8fa5
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.15.2
